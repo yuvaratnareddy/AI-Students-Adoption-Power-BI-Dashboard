@@ -134,6 +134,4 @@ Open in Power BI Desktop
 
 Ensure the Excel dataset is placed in the data/ folder
 
-Refresh the report
-
 Explore all insights using slicers & visuals
